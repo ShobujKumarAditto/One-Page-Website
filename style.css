@@ -1,0 +1,425 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.food-title-img img{
+ width: 100%;
+ height: 450px;
+ margin-top: 5px;
+}
+
+/* -------- menu section side---------- */
+
+.Our-style img{
+  width: 200px;
+  border-radius: 30px 50px 30px 40px;
+}
+
+
+.menu-side li{
+  display: inline-block;
+  padding: 10px 30px;
+  margin-top: 15px;
+}
+
+.menu-side a{
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 40px;
+  color: #141314;
+}
+
+.btn-singup {
+  padding: 10px 22px;
+  background-color: teal;
+  color: rgb(236, 220, 220);
+  border-radius: 20px;
+  margin-left: 10px;
+}
+
+li .btn-singup{
+  color: white;
+}
+.btn-singup:hover{
+  background-color: rgb(10, 63, 63);
+}
+.icon-img img{
+  width: 30px;
+}
+
+.food-contant-area{
+  width: 100%;
+  height: 545px;
+}
+
+ .food-contant{
+   float: left;
+   margin-top: 60px;
+ }
+
+ 
+
+ .btn-search{
+   width: 500px;
+   height: 70px;
+   padding: 10px 10px;
+ }
+
+ .btn-2{
+   font-size: 20px;
+   width: 150px;
+   height: 69px;
+   padding: 10px 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: #990066;
+   color: white;
+   margin-top: 50px;
+ }
+
+.class-or{
+  font-size: 20px;
+}
+
+.btn-3{
+  font-size: 20px;
+  width: 150px;
+  height: 69px;
+  padding: 10px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #990066;
+   color: white;
+}
+
+.food-img-2{
+  float: left;
+  margin-left: 9%;
+}
+
+
+.food-img-2 img{
+  width:100%;
+  height: 90%;
+}
+
+
+/*=======================
+      About-shop
+  =====================*/
+
+  .contant-about-name{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+  }
+
+
+  .About-shop{
+    width: 100%;
+    height: 600px;
+    border: 1px solid rgb(153, 213, 228);
+    background-image: url("img/istockphoto-866699668-170667a.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .food-cooking-man{
+    width: 700px;
+    height: 400px;
+    border: 1px solid white;
+    margin-left: 10%;
+    margin-top: 22%;
+    background-color: white;
+    box-shadow: 10px 20px 200px rgb(196, 193, 193);
+  }
+
+ .title-name-shop{
+   font-size: 25px;
+   font-family: Arial, Helvetica, sans-serif;
+   margin: 30px;
+ }
+
+ .paragrap-1{
+   font-size: 22px;
+   font-family: serif;
+   margin: 26px;
+ }
+ 
+ .paragrap-2{
+  font-size: 22px;
+  font-family: serif;
+  margin: 26px;
+}
+
+.paragrap-3{
+  font-size: 22px;
+  font-family: serif;
+  margin: 26px;
+}
+
+.btn-4{
+  font-size: 15px;
+  padding: 10px 50px;
+  background-color: #990066;
+  color: white;
+  border: none;
+  margin-left: 60%;
+
+}
+
+/*=======================
+      our-product
+  =====================*/
+  .our-product{
+    width: 100%;
+    height: 950px;
+    margin-top: 12%;
+    box-shadow: 10px 20px 200px white;
+  }
+
+ .pdt-best-food img{
+   width: 300px;
+   margin: 15px 0px 0px 12px;
+   border-radius: 10px 20px 200px white;
+ }
+ .tasty-food-2{
+   width: 200px;
+   height: 200px;
+ 
+ }
+
+ .tasty-food-4{
+  width: 200px;
+  height: 200px;
+
+}
+
+.tasty-food-5{
+  width: 200px;
+  height: 200px;
+}
+
+
+.tasty-food-6{
+  width: 200px;
+  height: 200px;
+}
+
+.tasty-food-7{
+  width: 200px;
+  height: 200px;
+}
+
+.tasty-food-12{
+  width: 200px;
+  height: 200px;
+}
+
+.tasty-food-13{
+  width: 200px;
+  height: 200px;
+}
+
+.tasty-food-14{
+  width: 200px;
+  height: 200px;
+}
+
+/*=======================
+     service-system
+  =====================*/
+
+  .title-name-4{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px 0px 40px 30px;
+  }
+
+  .service-system{
+    width: 100%;
+    height: 300px;
+    border: 1px solid #990066;
+    background-color: #990066;
+  }
+
+  .first-contant img{
+    float: left;
+  }
+   
+  .title-name-5{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
+    color: white;
+  }
+
+.contant-paragrap{
+  width: 500px;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 30px;
+  color: white; 
+ 
+}
+
+
+.app-store-img{
+  width: 150px;
+  margin-top: 45px;
+  margin-left: 30px;
+}
+
+.google-play-img{
+  width: 200px;
+  display: inline-block;
+}
+
+.google-gallery-img{
+  width: 150px;
+  margin-top: 45px;
+  margin-left: 30px;
+}
+
+
+.second-content img{
+ width: 50%;
+float: left;
+margin: -30% 0%  0% 55%;
+}
+
+/*=======================
+    service-office
+  =====================*/
+.title-name-6{
+ font-size: 30px;
+ font-family: Arial, Helvetica, sans-serif;
+ margin: 30px;
+}
+
+.service-office{
+  width: 100%;
+  height: 500px;
+  border: 1px solid rgb(250, 237, 237);
+  background-image: url("img/home-corporate-bd1.jpg");
+}
+
+.Tasty-busniess{
+  width: 600px;
+  height: 230px;
+  border: 1px solid rgb(253, 244, 244);
+  margin: 26% 0% 0% 7%;
+  background-color: white;
+  box-shadow: 10px 20px 100px rgb(247, 213, 213);
+}
+
+.Tasty-business{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px;
+}
+
+.Contant-Tasty-business{
+  width: 500px;
+  font-size: 15px;
+  margin: 20px;
+}
+
+.btn-7{
+  font-size: 15px;
+  padding: 10px 50px;
+  background-color: #990066;
+  color: white;
+  border: none;
+  margin-left: 50%;
+}
+
+
+.end-part{
+  border: 1px solid rgb(252, 247, 247);
+  margin-top: 10%;
+}
+
+
+.title-7{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 30px;
+}
+
+.about-Tasty-food{
+  font-size: 20px;
+  text-align: justify;
+  padding: 10px 20px;
+}
+
+.choose-Tasty-food{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 30px;
+}
+
+.one{
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+text-align: justify;
+margin: 30px;
+
+}
+
+.title-end-5{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 30px;
+}
+
+.business-contant{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 30px;
+}
+
+.heading-5{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 30px;
+}
+.about-contant-6{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 30px;
+}
+
+.Two{
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+text-align: justify;
+margin: 10px 0px 0px 40px;
+}
+
+.heading-7{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 30px;
+}
+.about-contant-7{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 30px;
+}
+
+.copy{
+  font-size: 25px;
+  float: left;
+  margin-top: 20px;
+}
+
+.social-area{
+  width: 100%;
+  height: 200px;
+}
+.delivery-service-title{
+  width: 50%;
+  float: left;
+  margin: 0% 0% 0% 34%;
+}
